@@ -1,0 +1,14 @@
+.team{
+    background-image: url()
+}
+
+.scrollspySite{
+    position: relative;
+    overflow: auto;
+    height: 380px;
+}
+
+.image{
+    background-image: url(../../../img/1487128329.jpg);
+    background-size: 100%;
+}

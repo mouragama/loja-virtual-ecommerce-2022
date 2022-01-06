@@ -1,0 +1,220 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+@font-face{
+    font-family: 'Dark Cristal Script';
+    src: url(C:/Users/Lael/AppData/Local/Microsoft/Windows/Fonts/dc_s.ttf);
+}
+
+#area-conteudo{
+    font-family: 'Dark Cristal Script';
+    font-family: 'Segoe UI', Tahoma;
+    width: 100%;
+    height: 60px;
+    background-color:#ececec;
+}
+
+#logo{
+    float: left;
+    position: relative;
+    left: 200px;
+    letter-spacing: 5px;
+    color: #002aa8;
+    text-shadow: 2px 2px 8px crimson;
+    
+}
+
+#conteudo{
+    padding: 15px;
+}
+#menu-conteudo{
+    float: right;
+    position: relative;
+    right: 200px;
+    font-size: 20px;
+    word-spacing: 15px;
+    padding: 5px;
+    text-shadow: 4px 4px 8px #002aa8;
+}
+#form{
+    padding: 4px;
+    padding-top: auto;
+}
+
+.botao{
+    width: 100px; 
+    height: 25px; 
+    color: #002aa8;
+    font-size: 15px;
+    font:bold;
+}
+
+a{
+    text-decoration: none;
+    color:#a10069;
+}
+
+.conteudo-geral{
+    
+    width: 100%;
+    height: 925px;
+    
+}
+
+.conteudo-esquerdo{
+    
+    background: #dee9ff;
+    width: 210px;
+    height: 935px;
+    float: left;
+    text-shadow: 4px 4px 8px #a10069;
+}
+.conteudo-centro{
+    
+    width: 926px;
+    height: 935px;
+    position: relative;
+    left: 02px;
+    float: left;
+    margin: 0px;
+    background: #88cae2;
+}
+.area-principal{
+    font-style: italic;
+    width: 927px;
+    height: 230px;
+    background:#ececec;
+    border-radius: 10px 20px;
+    position: relative;
+    right: 1px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+}
+
+.conteudo-postagens{
+    margin: 1px;
+    padding: 11px;
+}
+
+.titulo-postagem{
+    text-shadow: 1px 1px 8px #a10069;
+    color: #002aa8;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.postagem{
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: #a10069;
+}
+.data{
+    border-bottom: 1px solid;
+    display: block;
+    margin-bottom: 2px;
+    text-shadow: 2px 2px 8px #002aa8;
+}
+.mover{
+    float: left;
+    margin-top: 10px;
+}
+
+p{
+    position: relative;
+    left: 10px;
+    font-size: 15px;
+}
+
+.autor{
+border-bottom: 2px dotted crimson;
+width: 252px;
+display: block;
+margin-top: 10px;
+font-size: 20px;
+color: darkmagenta;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.conteudo-direito{
+    
+    background: #dee9ff;
+    width: 209px;
+    height: 935px;
+    float: right;
+    position: relative;
+    right: 1px;
+    font-size: 25px;
+    text-shadow: 4px 4px 8px #a10069;
+}
+.texto-direito{
+    margin-right: 10px;
+    top: 5px;
+}
+
+.texto-esquerdo{
+    margin-right: 10px;
+    top: 5px;
+}
+
+.rodape{
+    border-color: 2px solid crimson;
+    background: #ececec;
+    width: 100%;
+    height: 300px;
+    float: left;
+    margin-top: 1px;
+    
+}
+
+.conteudo-rodape{
+    
+    width: 850px;
+    height: 150px;
+    font-size: 18px;
+    color: #a10069;
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 2px solid #a10069;
+    position: relative;
+    left: 210px;
+}
+
+.text01{
+    
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-left: 55px;
+    position: relative;
+    left: 10px;
+    text-shadow: 4px 4px 8px #a10069;
+}
+
+.info{
+    float: left;
+    margin: 100px;
+    word-spacing: 100px;
+    position: relative;
+    left: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.format-texto{
+    font-size: 15px;
+    color: darkmagenta;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 2px;
+}
+p{
+    color: darkmagenta;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{
+    color: #002aa8;
+}
+a:active{
+    background: #a10069;
+}

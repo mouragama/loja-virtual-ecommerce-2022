@@ -1,0 +1,15 @@
+.fundo-img{
+    background:#268cf8e3;
+}
+.cor{
+    color:  #268cf8e3;
+}
+.image{
+    position: relative;
+    float: left;
+    left: 100px;
+}
+
+.naves{
+    float: left;
+}

@@ -1,0 +1,120 @@
+.conteudo-centro{
+    
+    width: 926px;
+    height: 935px;
+    position: relative;
+    left: 02px;
+    float: left;
+    margin: 1px;
+    top: 0px;
+    background: #88cae2;
+}
+
+.area-principal{
+    font-style: italic;
+    width: 927px;
+    height: 80px;
+    background:#ececec;
+    border-radius: 10px 20px;
+    position: relative;
+    right: 1px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.area-principal01{
+    font-style: italic;
+    width: 460px;
+    height: 422px;
+    background:#ececec;
+    border-radius: 10px 20px;
+    position: relative;
+    right: 1px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+    float: left;
+}
+.area-principal02{
+    font-style: italic;
+    width: 460px;
+    height: 422px;
+    background:#ececec;
+    border-radius: 10px 20px;
+    position: relative;
+    right: 1px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+    float: right;
+}
+.area-principal03{
+    font-style: italic;
+    width: 460px;
+    height: 422px;
+    background:#ececec;
+    border-radius: 10px 20px;
+    position: relative;
+    right: 1px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+    float: left;
+}
+
+.area-principal04{
+    font-style: italic;
+    width: 460px;
+    height: 422px;
+    background:#ececec;
+    border-radius: 10px 20px;
+    position: relative;
+    right: 1px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+    float: right;
+}
+
+.conteudo-postagens{
+    margin: 1px;
+    padding: 11px;
+}
+
+.titulo-postagem{
+    text-shadow: 1px 1px 8px #a10069;
+    color: #002aa8;
+    font-size: 15px;
+    margin-top: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.data{
+    border-bottom: 1px solid;
+    display: block;
+    margin-bottom: 2px;
+    text-shadow: 2px 2px 8px #999999;
+    color: #a10069;
+    
+}
+.data1{
+    float: right;
+    padding: 1px;
+    text-shadow: 2px 2px 8px #999999;
+    color: #a10069;
+    
+}
+
+.mover{
+    float: left;
+    margin-top: 10px;
+}
+
+.autor{
+    border-bottom: 1px solid #a10069;
+    width: 220px;
+    display: block;
+    margin-top: 30px;
+    font-size: 20px;
+    color: darkmagenta;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    left: 100px;
+}

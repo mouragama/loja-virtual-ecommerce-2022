@@ -1,0 +1,22 @@
+.cabecalho {
+    float: left;
+    left: 30px;
+    position: relative;
+}
+
+.menu{
+    float: right;
+    position: relative;
+    padding: 40px;
+    font-size: 30px;
+    right: 30px;
+
+}
+.texto-principal{
+    text-align: center;
+    
+    font-size: 20px;
+    text-emphasis: radius;
+    border: 2px solid crimson;
+    padding-bottom: 10px;
+}
