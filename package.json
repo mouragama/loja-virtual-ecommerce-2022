@@ -1,0 +1,23 @@
+{
+  "name": "projeto-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouragama/projeto-final.git"
+  },
+  "author": "lael santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouragama/projeto-final/issues"
+  },
+  "homepage": "https://github.com/mouragama/projeto-final#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
